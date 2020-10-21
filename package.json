@@ -1,0 +1,31 @@
+{
+    "bin": {},
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "dyeing",
+    "version": "0.0.0",
+    "main": "index.js",
+    "keywords": [
+        "colors",
+        "theme",
+        "terminal"
+    ],
+    "homepage": "https://github.com/YounGoat/dyeing",
+    "description": "Color themes to make text more accessible.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/dyeing.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
